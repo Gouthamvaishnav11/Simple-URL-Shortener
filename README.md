@@ -39,9 +39,6 @@ python app.py
 .Access the Simple URL Shortener:
 Open your web browser and navigate to http://127.0.0.1:3000.
 
-.Explore the Features:
-Browse through different sections to see the website's database and functionality.
-
 .View Database Data:
 To view the data, open Chrome and search for "SQLite viewer." Alternatively, you can click on the link below and drag the url.db file into the viewer:
 SQLite Viewer
