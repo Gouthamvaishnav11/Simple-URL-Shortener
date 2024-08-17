@@ -41,6 +41,6 @@ Open your web browser and navigate to http://127.0.0.1:3000.
 
 .View Database Data:
 To view the data, open Chrome and search for "SQLite viewer." Alternatively, you can click on the link below and drag the url.db file into the viewer:
-SQLite Viewer
+https://inloop.github.io/sqlite-viewer/
 
 Feel free to explore and interact with the site to learn more about my skills and projects. If you have any questions or feedback, please contact me through the contact form on the website.
