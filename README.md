@@ -1,4 +1,4 @@
-Goutham's CodeAlpha Internship Tasks
+
 This project highlights my work, skills, and projects in Python programming and development.
 
 Project Overview
